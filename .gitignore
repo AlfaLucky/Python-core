@@ -5,3 +5,6 @@
 .idea/modules.xml
 .idea/Python-core.iml
 .idea/vcs.xml
+__pycache__/TestCalculator.cpython-39-pytest-7.1.2.pyc
+Brain_freeze/__pycache__/BrainFreeze.cpython-39.pyc
+Brain_freeze/__pycache__/TestBrainFreeze.cpython-39-pytest-7.1.2.pyc
